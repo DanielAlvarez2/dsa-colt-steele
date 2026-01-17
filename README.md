@@ -1,4 +1,4 @@
 YouTube  
 Channel: DevsWiki  
-(DSA in JS - Colt Steele)[https://www.youtube.com/watch?v=3qBgUVlpTQ8]  
+[DSA in JS - Colt Steele](https://www.youtube.com/watch?v=3qBgUVlpTQ8)  
   
